@@ -12,3 +12,9 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/mgskjaeveland/rdfvizler/develop/badge.svg)](https://snyk.io/test/github/mgskjaeveland/rdfvizler/develop)
 
 # RDFVizler
+
+See <https://rdfvizler.dyreriket.xyz>.
+
+## Similar Projects
+
+* [Enola.dev RDF Graph Generation](https://docs.enola.dev/models/example.org/graph/)
